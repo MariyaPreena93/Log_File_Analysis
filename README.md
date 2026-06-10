@@ -52,7 +52,6 @@ Log_File_Analysis/
 ```text
 ===== Log Summary Report =====
 
-INFO Messages    : 3
 WARNING Messages : 2
 ERROR Messages   : 2
 
