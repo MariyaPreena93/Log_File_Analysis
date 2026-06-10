@@ -1,0 +1,24 @@
+2026-06-07 10:15:22 INFO  Application Started
+
+2026-06-07 10:15:25 INFO  Connected to MySQL database
+
+2026-06-07 10:15:26 INFO  Employees table verified successfully
+
+2026-06-07 10:16:05 INFO  Employee inserted successfully
+                         Employee ID: 101
+
+2026-06-07 10:16:40 INFO  Employee inserted successfully
+                         Employee ID: 102
+
+2026-06-07 10:17:15 INFO  Salary updated successfully
+                         Employee ID: 101
+                         New Salary: 75000
+
+2026-06-07 10:18:02 WARNING Employee ID 999 not found for update
+
+2026-06-07 10:18:30 INFO  Employee deleted successfully
+                         Employee ID: 102
+
+2026-06-07 10:19:10 ERROR Duplicate entry '101' for key 'PRIMARY'
+
+2026-06-07 10:20:00 INFO  Application Closed
